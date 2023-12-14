@@ -1,1 +1,2 @@
 This is the first text file to have an example
+new changes
